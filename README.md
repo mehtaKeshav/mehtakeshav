@@ -7,7 +7,7 @@
 
 - 👨‍💻 Wanna know more about me? [https://keshav-mehta.netlify.app/](https://keshav-mehta.netlify.app/)
 
-- 💬 Ask me about **react.js, Django, Express.js, Full-Stack Development,and Formula 1 🏎️**
+- 💬 Ask me about **react.js, Django, Express.js, Full-Stack Development, and Formula 1
 
 - 📫 How to reach me **mehtakeshav.b@gmail.com**
 
