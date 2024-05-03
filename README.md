@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BeachEvents](https://github.com/j-jimenez01/BeachEvents)
 
-- 🌱 I’m currently persuing **AWS solution architect,**
+- 🌱 I’m persuing **AWS solution architect certification,**
 
 - 👨‍💻 Wanna know more about me? [https://keshav-mehta.netlify.app/](https://keshav-mehta.netlify.app/)
 
